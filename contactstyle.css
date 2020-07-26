@@ -1,0 +1,55 @@
+h1 {color:DeepPink; 
+	font-size: 48px;
+	font-weight: bold;
+	letter-spacing: -1px; 
+	line-height: 1; 
+	text-align: center;
+    text-shadow: 2px 2px 5px LightSlateGray	;
+	text-weight:bold;
+ }
+
+body {
+  background-image:url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+   font-family:cooper black;
+   color:indigo;
+}
+
+.transbox {
+    margin-top:60px;
+    margin-bottom:40px;
+    margin-right:220px;
+    margin-left:220px; 
+  background-color: #ffffff;
+  opacity: 0.6;
+  box-shadow: 0 0 15px 10px #FFFAF0;
+  border-radius: 50%;
+}
+
+.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+
+	
+nav a {
+  display:inline;
+  font-size: 32px;
+  font-weight:bold;
+  margin-right:1.5em;
+}
+
+nav a:hover{font-size:38px;
+			transition:0.3s ease;
+}
+
+
+#homepage{font-size: 34px;
+  font-weight:bold;
+  margin-right:1.5em;	
+}
+
+

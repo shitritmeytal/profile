@@ -1,0 +1,77 @@
+
+body {
+  background-image:url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family:cooper black;
+  color:indigo;
+}
+
+h1 {   text-shadow: 2px 2px 5px LightSlateGray; font-family:cooper black; color:DeepPink; font-size: 52px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+
+.iimgrole1{height:200;
+	margin-top:10px;
+    margin-bottom:20px;
+    margin-right:10px;
+    margin-left:10px; 
+	box-shadow: 0 0 15px 10px #FFFAF0;
+	
+    transition: transform .4s;
+    width:350px;}
+	
+.iimgrole2{	height:200;
+	margin-top:10px;
+    margin-bottom:20px;
+    margin-right:70px;
+    margin-left:70px; 
+	box-shadow: 0 0 15px 10px #FFFAF0;
+	
+    transition: transform .4s;
+    width:350px;}
+	
+.iimgrole3{height:200;
+	margin-top:10px;
+    margin-bottom:20px;
+    margin-right:195px;
+    margin-left:195px; 
+	box-shadow: 0 0 15px 10px #FFFAF0;
+	
+    transition: transform .4s;
+    width:350px;}
+	
+.iimgrole4{height:200;
+	margin-top:10px;
+    margin-bottom:20px;
+    margin-right:70px;
+    margin-left:70px; 
+	box-shadow: 0 0 15px 10px #FFFAF0;
+	
+    transition: transform .4s;
+    width:350px;}
+
+
+img:hover {
+  -ms-transform: scale(2); /* IE 9 */
+  -webkit-transform: scale(2); /* Safari 3-8 */
+  transform: scale(2); 
+}
+nav a {
+  display:inline;
+  font-size: 32px;
+  font-weight:bold;
+  margin-right:1.5em;
+}
+
+nav a:hover{font-size:38px;
+			transition:0.3s ease;
+}
+
+
+
+#homepage{font-size: 34px;
+  font-weight:bold;
+  margin-right:1.5em;
+	
+}
